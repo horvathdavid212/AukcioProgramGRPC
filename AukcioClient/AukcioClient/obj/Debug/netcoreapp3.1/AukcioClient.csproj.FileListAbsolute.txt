@@ -1,0 +1,44 @@
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\AukcioClient.exe
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\AukcioClient.deps.json
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\AukcioClient.runtimeconfig.json
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\AukcioClient.runtimeconfig.dev.json
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\AukcioClient.dll
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\AukcioClient.pdb
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.csproj.AssemblyReference.cache
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.Form1.resources
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.csproj.GenerateResource.cache
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.AssemblyInfoInputs.cache
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.AssemblyInfo.cs
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.csproj.CoreCompileInputs.cache
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.csproj.CopyComplete
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.dll
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.pdb
+C:\Users\Davecs\Desktop\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.genruntimeconfig.cache
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\AukcioClient.exe
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\AukcioClient.deps.json
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\AukcioClient.runtimeconfig.json
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\AukcioClient.runtimeconfig.dev.json
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\AukcioClient.dll
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\AukcioClient.pdb
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.csproj.AssemblyReference.cache
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.Form1.resources
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.csproj.GenerateResource.cache
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.AssemblyInfoInputs.cache
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.AssemblyInfo.cs
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.csproj.CoreCompileInputs.cache
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.csproj.CopyComplete
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.dll
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.pdb
+C:\Users\csimp\Desktop\Eger PTI 3.fé\grpc beadando\AukcioClient\AukcioClient\obj\Debug\netcoreapp3.1\AukcioClient.genruntimeconfig.cache

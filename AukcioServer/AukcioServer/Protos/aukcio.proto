@@ -1,0 +1,108 @@
+syntax = "proto3";
+
+option csharp_namespace = "AukcioServer";
+
+import "google/protobuf/timestamp.proto";
+
+package biddingAppPackage;
+
+service BiddingApp {
+  rpc Login (LoginRequest) returns (LoginResponse);
+  rpc Logout (LogoutRequest) returns (LogoutResponse);
+  rpc List (ListRequest) returns (ListResponse);
+  rpc AddProduct (AddProductRequest) returns (AddProductResponse);
+  rpc Bid (BidRequest) returns (BidResponse);
+  rpc DeleteProduct(DeleteProductRequest) returns (DeleteProductResponse);
+  rpc Search(SearchRequest) returns (SearchResponse);
+}
+
+message LoginRequest {
+    string username = 1;
+    string password = 2;
+}
+
+message LoginResponse {
+    bool success = 1;
+    string message = 2;
+    string token = 3;
+    google.protobuf.Timestamp token_expiration = 4;
+    int32 LogoutTimeRemaining = 5;
+}
+
+message LogoutRequest {
+    string token = 1;
+}
+
+message LogoutResponse {
+    bool success = 1;
+    string message = 2;
+}
+
+message ListRequest {
+    string token = 1;
+}
+
+message ListResponse {
+    repeated Product products = 1;
+    bool success = 2;
+    string message = 3;
+    bool loggedIn=4;
+}
+
+message AddProductRequest {
+    string token = 1;
+    string product_name = 2;
+    int32 product_price = 3;
+    string product_owner = 4;
+}
+
+message AddProductResponse {
+    bool success = 1;
+    string message = 2;
+    bool loggedIn=3;
+}
+
+message BidRequest {
+    string token = 1;
+    int32 product_id = 2;
+    int32 bid_price = 3;
+    string winner_user=4;
+}
+
+message BidResponse {
+    bool success = 1;
+    string message = 2;
+    bool loggedIn=3;
+}
+
+message Product {
+    int32 id = 1;
+    string product_name = 2;
+    int32 product_price = 3;
+    int32 highest_bid = 4;
+    string product_owner=5;
+    string winner_user=6;
+}
+
+message DeleteProductRequest {
+    string Token = 1;
+    int32 Id = 2;
+}
+
+message DeleteProductResponse {
+    bool Success = 1;
+    string Message = 2;
+    bool loggedIn=3;
+}
+
+message SearchRequest {
+    string token = 1;
+    string productName = 2;
+}
+
+message SearchResponse {
+    repeated Product products = 1;
+    bool Success = 2;
+    string Message = 3;
+    bool loggedIn=4;
+}
